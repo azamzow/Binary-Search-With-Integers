@@ -4,18 +4,6 @@
 
 This project writes a c++ function for the BinarySearch algorithm to search a target element in an asorted, ascending or descending, ordered vector. The function also keeps track of the number of comparisons used to find the target. To ensure the correctness of the algorithm the input data is sorted in 2 arrays, one in ascending order and the other in descending order. An exception is thrown when an input vector is unsorted.
 
-### To Run
-
-Using terminal on Mac, you have to make sure you have g++ installed first. Then you can run it...
-
-```
-$ cd Binary-Search-With-Integers
-$ g++ BinarySearch.cpp
-$ ./a.out
-```
-
-### Description 
-
 This program tests using vectors populated with:
 
 i) consecutive increasing integers in the ranges from 1 to powers of 2, that is, to these numbers:
@@ -25,6 +13,16 @@ i) consecutive increasing integers in the ranges from 1 to powers of 2, that is,
 ii)  consecutive decreasing integers in the ranges from powers of 2 to 1, that is, to these numbers:
 
 2048, 1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1.
+
+### To Run
+
+Using terminal on Mac, you have to make sure you have g++ installed first. Then you can run it...
+
+```
+$ cd Binary-Search-With-Integers
+$ g++ BinarySearch.cpp
+$ ./a.out
+```
 
 ### Output
 
