@@ -30,4 +30,4 @@ ii)  consecutive decreasing integers in the ranges from powers of 2 to 1, that i
 
 The program will output the number of comparisons to find the target in each range. First we search 2048 and 3 in the ascending array, then 1 and 10 in the decending array. An example output is shown below..
 
-![Result](https://github.com/azamzow/Binary_Search_With_Integers/blob/master/Result.png?raw=true)
+![Result](https://github.com/azamzow/Binary-Search-With-Integers/blob/master/Result.png?raw=true)
