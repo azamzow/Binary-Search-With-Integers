@@ -9,7 +9,7 @@ This project writes a c++ function for the BinarySearch algorithm to search a ta
 Using terminal on Mac, you have to make sure you have g++ installed first. Then you can run it...
 
 ```
-$ cd Binary_Search_With_Integers
+$ cd Binary-Search-With-Integers
 $ g++ BinarySearch.cpp
 $ ./a.out
 ```
